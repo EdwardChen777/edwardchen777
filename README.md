@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Edward Chen</h1>
 <h3 align="center">A passionate software developer studying at CMU.</h3>
 
-- 🔭 I’m currently working on **a finance**
+- 🔭 I’m currently working on **a nutrition app**
 
 - 🌱 I’m currently learning **machine learning**
 
-- 📫 How to reach me **edwardchen5414@gmail.com**
+- 📫 Reach me at **edwardchen5414@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

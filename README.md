@@ -44,4 +44,4 @@ Here are some ideas to get you started:
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
 </p><br/>
 
-![Edward's GitHub stats](https://github-readme-stats.vercel.app/api?username=edwardchen777&hide=contribs,prs)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edwardchen777)](https://github.com/edwardchen777/github-readme-stats)

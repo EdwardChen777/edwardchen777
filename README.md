@@ -26,6 +26,6 @@ Here are some ideas to get you started:
 - 📫 Reach me at **edwardchen5414@gmail.com**
 
 <h1 align="center">Technologies</h1>
-![Theoretically Productive](https://img.shields.io/badge/THEORETICALLY-PRODUCTIVE-blueviolet)
+![My Skills](https://skillicons.dev/icons?i=py,git,github,discord,bootstrap,arduino)
 
 

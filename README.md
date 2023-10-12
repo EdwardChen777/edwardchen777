@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![plot](./assets/profile-banner.png)
+
 <h1 align="center">Hi 👋, I'm Edward Chen</h1>
 <!-- <h2 align="left">A passionate software developer studying at CMU.</h2> -->
 <h2 align="left">About me</h2>

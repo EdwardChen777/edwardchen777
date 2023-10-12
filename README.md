@@ -26,6 +26,6 @@ Here are some ideas to get you started:
 - 📫 Reach me at **edwardchen5414@gmail.com**
 
 <h1 align="center">Technologies</h1>
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Theoretically Productive](https://img.shields.io/badge/THEORETICALLY-PRODUCTIVE-blueviolet)
 
 

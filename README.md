@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <!-- <h2 align="left">A passionate software developer studying at CMU.</h2> -->
 <h2 align="left">About me</h2>
-<p>I am a recent graduate from Carnegie Mellon University studying Information Systems and Business Administration. I am passionate in the intersection between business and technology and how the combination can bring positive impact to the world. In my free time, I am learning about machine learning and trading. </p>
+<p>I am a recent graduate from Carnegie Mellon University studying Information Systems and Business Administration. I am passionate in the intersection between business and technology and how the combination can bring positive impact to the world. In my free time, I am learning about machine learning, trading, and 3D computer graphics. </p>
 
 - 🔭 I’m currently working on **a trade journal app**
 
